@@ -1,0 +1,80 @@
+body {
+	background: rgb(222, 249, 249);
+ font-family:"Tahoma" ,sans-serif;
+padding:40;
+margin:40;
+}
+
+.seccion{
+	background-color:rgb(190, 219, 198);
+padding: 20px;
+margin: 13px;
+border: 0px black yellow;
+
+}
+.Parte2
+{
+	background: rgb(222, 249, 249);
+	width: 70%;
+	float: right;
+	border-bottom: 1px solid;
+	font-family:"Times New Roman";
+}
+.Parte1
+{
+    background: rgb(222, 249, 249);
+    width: 25%;
+    margin:15px;
+    float: left;
+    position:fixed;
+}
+.img{
+
+
+  
+    width: 80%;
+ 	height:60%;
+	display:block;
+	margin:40px auto;
+	
+}
+.dato1
+{
+	background: rgb(222, 249, 249);
+	color:red;
+	width: 80%;
+	padding: 0;
+	margin: 0 auto
+	list-style:none;
+}
+.dato1 li
+{
+    margin: 10px;
+    background: rgb(222, 249, 249);
+    padding: 10px
+}
+.dato1 li a
+{
+	text-decoration: none;
+	font-size: 1.2em;
+	color:rgb(8, 61, 35);
+	font-weight: bolder;
+}
+#nombre{
+	font-family:"Tahoma";
+	color:rgb(4, 51, 28);
+}
+#Idiomas{
+	color:rgb(30, 40, 36);
+}
+#Cursos{
+	color:rgb(30, 40, 36); 
+}
+.slider{
+		background-color:rgb(190, 219, 198);
+padding: 20px;
+margin: 13px;
+border: 0px black yellow;
+
+
+}
